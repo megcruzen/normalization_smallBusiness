@@ -1,0 +1,53 @@
+{
+    "employees": [
+        {
+            "employeeId": 1,
+            "name": "John Smith",
+            "deptId": 3,
+            "compId": 2
+        },
+        {
+            "employeeId": 2,
+            "name": "Jane Doe",
+            "deptId": 1,
+            "compId": 1
+        },
+        {
+            "employeeId": 3,
+            "name": "Bill Johnson",
+            "deptId": 2,
+            "compId": 3
+        }
+    ],
+    "departments": [
+        {
+            "deptId": 1,
+            "name": "Marketing"
+        },
+        {
+            "deptId": 2,
+            "name": "Customer Service"
+        },
+        {
+            "deptId": 3,
+            "name": "Sales"
+        }
+    ],
+    "computers": [
+        {
+            "compId": 1,
+            "name": "MacBook Pro",
+            "year": "2015"
+        },
+        {
+            "compId": 2,
+            "name": "Dell",
+            "year": "2014"
+        },
+        {
+            "compId": 3,
+            "name": "MacBook Pro",
+            "year": "2016"
+        }
+    ]
+}
