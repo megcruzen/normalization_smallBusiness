@@ -1,51 +1,51 @@
 {
     "employees": [
         {
-            "employeeId": 1,
+            "id": 1,
             "name": "John Smith",
-            "deptId": 3,
-            "compId": 2
+            "departmentId": 3,
+            "computerId": 2
         },
         {
-            "employeeId": 2,
+            "id": 2,
             "name": "Jane Doe",
-            "deptId": 1,
-            "compId": 1
+            "departmentId": 1,
+            "computerId": 1
         },
         {
-            "employeeId": 3,
+            "id": 3,
             "name": "Bill Johnson",
-            "deptId": 2,
-            "compId": 3
+            "departmentId": 2,
+            "computerId": 3
         }
     ],
     "departments": [
         {
-            "deptId": 1,
+            "id": 1,
             "name": "Marketing"
         },
         {
-            "deptId": 2,
+            "id": 2,
             "name": "Customer Service"
         },
         {
-            "deptId": 3,
+            "id": 3,
             "name": "Sales"
         }
     ],
     "computers": [
         {
-            "compId": 1,
+            "id": 1,
             "name": "MacBook Pro",
             "year": "2015"
         },
         {
-            "compId": 2,
+            "id": 2,
             "name": "Dell",
             "year": "2014"
         },
         {
-            "compId": 3,
+            "id": 3,
             "name": "MacBook Pro",
             "year": "2016"
         }
